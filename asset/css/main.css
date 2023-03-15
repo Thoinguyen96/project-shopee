@@ -990,9 +990,8 @@ i.home-product__item-fill {
 }
 .footer__wrap-topic {
   color: var(--black-color);
-  font-size: 1.4rem;
-  font-weight: 400;
-  padding: 25px 0;
+  font-size: 1.3rem;
+  font-weight: 500;
 }
 .footer__wrap-topic-item-info:hover {
   color: var(--red-color);
@@ -1015,7 +1014,7 @@ i.home-product__item-fill {
   border-radius: 3px;
 }
 .footer__wrap-topic-item {
-  margin: 20px 0 20px;
+  margin: 0px 0 20px;
 }
 .footer__wrap-topic-item-info-facebook,
 .footer__wrap-topic-item-info-likedin,
@@ -1039,7 +1038,7 @@ i.home-product__item-fill {
 }
 .footer__wrap-topic-list-app {
   gap: 10px;
-  margin-top: 20px;
+
   width: 178px;
   height: 90px;
   display: flex;
@@ -1060,4 +1059,9 @@ i.home-product__item-fill {
 }
 .footer__wrap-topic-store-app + .footer__wrap-topic-store-app {
   margin-top: 8px;
+}
+.home-pagination__number-page {
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
