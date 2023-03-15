@@ -989,6 +989,7 @@ i.home-product__item-fill {
   padding: 50px 0;
 }
 .footer__wrap-topic {
+  margin: 25px 0px;
   color: var(--black-color);
   font-size: 1.3rem;
   font-weight: 500;
