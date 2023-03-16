@@ -35,9 +35,7 @@ a {
   max-width: 100%;
   margin: 0 auto;
 }
-.grid__full-width {
-  width: 100%;
-}
+
 .grid__row {
   padding-top: 20px;
   display: flex;
