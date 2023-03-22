@@ -488,7 +488,7 @@ html {
   display: block;
 }
 .header__tools-cart-list::before {
-  top: -19px;
+  top: -17px;
   right: 13px;
   border-width: 21px 21px;
   cursor: pointer;
