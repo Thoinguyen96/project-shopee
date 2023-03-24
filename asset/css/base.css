@@ -32,7 +32,6 @@ a {
 }
 
 .grid__row {
-  padding-top: 20px;
   display: flex;
   flex-wrap: wrap;
   margin-left: -5px;
